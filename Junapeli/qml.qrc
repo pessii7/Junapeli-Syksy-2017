@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Map.qml</file>
+        <file>ServiceTrain.qml</file>
+        <file>TrackView.qml</file>
+        <file>resurssit/asemadata.json</file>
+        <file>resurssit/ratadata.json</file>
+        <file>TrainNetwork.qml</file>
+        <file>TrainShop.qml</file>
+        <file>MedalView.qml</file>
+        <file>resurssit/maintTrain.png</file>
+        <file>resurssit/handcar.png</file>
+        <file>resurssit/steamTrain.png</file>
+        <file>resurssit/flatHatTrain.png</file>
+        <file>resurssit/bulletTrain.png</file>
+        <file>resurssit/futuristicTrain.png</file>
+        <file>Obstacle.qml</file>
+        <file>resurssit/car.png</file>
+        <file>resurssit/car2.png</file>
+        <file>resurssit/car3.png</file>
+        <file>resurssit/protesters.png</file>
+        <file>resurssit/rocks.png</file>
+        <file>resurssit/tree.png</file>
+        <file>InstrDialog.qml</file>
+        <file>resurssit/medal.png</file>
+        <file>PassengerTrains.qml</file>
+        <file>resurssit/remove.mp3</file>
+        <file>resurssit/passengerTrain.png</file>
+        <file>EndGame.qml</file>
+    </qresource>
+</RCC>
